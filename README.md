@@ -1,7 +1,3 @@
-Aquí tienes el **README.md** completo y profesional para tu repositorio de GitHub de **VERDIKTIA**. Está diseñado para presentar bien el proyecto a visitantes, evaluadores o partners institucionales:
-
----
-
 # VERDIKTIA — IA de Decisión Estratégica para Internacionalización de PYMEs
 
 **VERDIKTIA** es una plataforma basada en inteligencia artificial estructurada que emula el razonamiento experto en procesos de internacionalización de pequeñas y medianas empresas (PYMEs).  
@@ -108,7 +104,3 @@ Para usos comerciales o institucionales, contactar a [Tu email institucional].
 ---
 
 # 🔥 Únete a la revolución de la inteligencia estructurada para decisiones estratégicas.
-
----
-
-¿Quieres que además prepare un pequeño logo visual para la cabecera del README (tipo badge de "powered by VERDIKTIA")? 🚀
